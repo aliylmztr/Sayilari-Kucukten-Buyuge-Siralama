@@ -1,8 +1,3 @@
-# Sayilari-Kucukten-Buyuge-Siralama
-Java Sayilari Kucukten Buyuge Siralama
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
